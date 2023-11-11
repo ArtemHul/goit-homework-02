@@ -7,7 +7,8 @@ ul{list-style-type: none;}
 
 .link {text-decoration: none;
     line-height: 1.5;
-    letter-spacing: 0.02em}
+    letter-spacing: 0.02em;
+    color: #2E2F42 }
 
 .link:hover,
 .link:focus {color:#404BBF}
@@ -21,9 +22,10 @@ button:focus{ background-color: #404BBF;}
     color: #2E2F42;
     background-color: #ffffff;}
 
-.home{color:#2E2F42}
+
+/*.home{color:#2E2F42}
 .galery{color: #2E2F42;}
-.contact{color: #2E2F42;}
+.contact{color: #2E2F42;}*/
 .addres{font-style: normal}
 
 
